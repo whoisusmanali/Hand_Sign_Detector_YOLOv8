@@ -26,8 +26,12 @@ In this project I used my own dataset by clicking my own pictures and annotate t
 
 ![confusion_matrix (2)](https://user-images.githubusercontent.com/104086680/230760779-264b4e2a-8a3e-43c1-ac96-32e888fe2794.png)   
 
+Batch one:
+
+
 5. Testing:<br>
     The testing of the model is completly done on PyCharms with Using different libraries and run on completely by using my own webcam. And try to detect the objects.
-    
+### Screenshots of labels and Confidence Level:
+
 
     
