@@ -2,6 +2,27 @@
 In this project I used my own dataset by clicking my own pictures and annotate these images by using MakeSense.com and use YOLOv8 for training and test on Vs Code.
 
 
+
+## Libraries used in this project:
+1. Collecting Images:
+    1.1. cv2
+    1.2. uuid
+    1.3. time
+    1.4. os
+2. Image Annotation:
+    2.1. Make Sense websit
+3. Training:
+    3.1. ultralytics
+    3.2. YOLO v8
+4. Testing using webcam:
+    4.1. cv2
+    4.2. ultralytics
+    4.3. numpy
+    4.4. math
+
+
+
+
 ## Steps Involved:
 1. Data collection:<br>
     In this section I use my own dataset by clicking my own pictures with different signs from different posses. In this process I use Python Programming language use to     collect the data.
@@ -26,12 +47,14 @@ In this project I used my own dataset by clicking my own pictures and annotate t
 
 ![confusion_matrix (2)](https://user-images.githubusercontent.com/104086680/230760779-264b4e2a-8a3e-43c1-ac96-32e888fe2794.png)   
 
-Batch one:
+Batch one working:
 
+![train_batch0](https://user-images.githubusercontent.com/104086680/230761268-7ba4b0b7-5017-4f8e-989f-b46e7dbd0901.jpg)
 
 5. Testing:<br>
     The testing of the model is completly done on PyCharms with Using different libraries and run on completely by using my own webcam. And try to detect the objects.
 ### Screenshots of labels and Confidence Level:
+![Labels and Confidence score prediction](https://user-images.githubusercontent.com/104086680/230761258-7394b3c9-25ec-4469-a26f-3e74d482bf0d.jpg)
 
 
     
