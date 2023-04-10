@@ -1,0 +1,14 @@
+path: ../drive/MyDrive/Object Detection Datasets/Hand_Sign_detector_dataset
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Power','Rock','Thumb Down','Thumb Up','Victory','Hi-Five']
+
+roboflow:
+  workspace: akos-magyar
+  project: fivecards
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/akos-magyar/fivecards/dataset/2
