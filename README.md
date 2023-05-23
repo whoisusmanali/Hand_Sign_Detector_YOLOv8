@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/104086680/232927683-a62eb7d3-c488-4be2
 
 
 
-## Libraries used in this project:
+## Libraries/Dependencies used in this project:
 1. Collecting Images:<br>
     1.1. cv2<br>
     1.2. uuid<br>
