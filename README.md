@@ -26,7 +26,6 @@ https://user-images.githubusercontent.com/104086680/232927683-a62eb7d3-c488-4be2
 
 
 
-
 ## Steps Involved:
 #### 1. Data collection:<br>
     In this section I use my own dataset by clicking my own pictures with different signs from different posses. In this process I use Python Programming language use to     collect the data.
